@@ -1,0 +1,3 @@
+[submodule "git-playground-source-code"]
+	path = git-playground-source-code
+	url = ../git-playground-source-code
